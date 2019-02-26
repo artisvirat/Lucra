@@ -24,7 +24,10 @@ using tools like Sketch, UXpin etc. Lucra aims to reduce this span in a designer
 --> Finally use render2.m to produce high fidelity design of the wireframe. Choose a background or use the default one.<br />
 
 # Output:<br />
-![Wireframe](https://github.com/artisvirat/Lucra/blob/master/jk.jpeg) to ![Design](https://github.com/artisvirat/Lucra/blob/master/final.jpg)
+   # Wireframe<br />
+![Wireframe](https://github.com/artisvirat/Lucra/blob/master/jk.jpeg)<br />
+   # Design<br />
+![Design](https://github.com/artisvirat/Lucra/blob/master/final.jpg)
 # Moving forward<br />
 There is a lot of work left in Lucra like aspect ratio, padding, svg output etc. It needs to be fully automated and should yield the exact data. Moving forward it needs a much bigger dataset to have bandwidth to improvise and better ml algorithms. 
 Still a lot left to do but atleast we have poc. 
